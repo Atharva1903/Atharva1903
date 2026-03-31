@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **k.atharva1903@gmail.com**
 
-- 🏎️ Full Throttle **You can sleep when you are Dead.**
+- 🏎️ **You can sleep when you are Dead.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
