@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/atharva-kakade">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -39,7 +39,7 @@
 
 ## 💻 Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,dart,php,html,css" />
 </p>
 
@@ -47,7 +47,7 @@
 
 ## 🚀 Frameworks & Technologies
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,mongodb,mysql,tailwind,bootstrap" />
 </p>
 
@@ -55,7 +55,7 @@
 
 ## 🛠️ Tools & Platforms
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,androidstudio,vscode,npm,linux" />
 </p>
 
