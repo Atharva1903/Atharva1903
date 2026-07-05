@@ -9,13 +9,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building **Unfold.dev** — an all-in-one startup collaboration platform.
-- 🌱 I'm currently focused on **Java, Data Structures & Algorithms, React, and Software Engineering**.
+- 🔭 I'm currently building **Unfold.dev**.
+- 🌱 I’m currently learning **Flutter and Application Development**.
 - 💡 I enjoy building full-stack applications with clean UI/UX.
-- 👯 I'm looking to collaborate on **React, Flutter, and Open Source Projects**.
+- 👯 I'm looking to collaborate on **React, Flutter Projects**.
 - 👨‍💻 Check out my projects: **https://atharvakakade.vercel.app/**
 - 📫 Reach me at: **k.atharva1903@gmail.com**
-- 🏁 **"You can sleep when you're dead."**
+- 🏎️  **"You can sleep when you're dead."**
 
 ---
 
@@ -61,34 +61,6 @@
 
 ---
 
-## 📌 Current Focus
-
-- 🎯 Software Engineering Placement Preparation
-- 🚀 Building **Unfold.dev**
-- 📱 Maintaining **Forge** & **Batman Password Manager**
-- 📚 Continuously improving problem-solving skills
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvakakade&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakakade&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvakakade&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏎️ Motto
-
-> **"Keep building. Keep learning. Keep pushing."**
-
----
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb251OHFib3hwcmZxc2R3aXJvaHVxdmx6MTVpcXoxZmkyZ3Y3MXVoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/40FmiosxIu2MVJYVih/giphy.gif" width="500"/>
 </p>
@@ -96,6 +68,6 @@
 <h3 align="center">Thanks for visiting! 🏁</h3>
 
 <p align="center">
-  <i>Building today for a better tomorrow. 🚀</i>
+  <i>"Keep building. Keep pushing."</i>
 </p>
 
